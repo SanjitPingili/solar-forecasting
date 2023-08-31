@@ -14,6 +14,7 @@ View solar irradiance forecasts in Georgia with this React Application.
 - Pranal Madria   
 - Ren Zheng  
 - Anushka Chaudhari
+- Sanjit Pingili
 #### Analysis Team 
 - Sneh Shah  
 - Sarang Pujari 
